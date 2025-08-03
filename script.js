@@ -41,7 +41,7 @@ const constellation = [
     {
         name: "Scorpio",
         image: "Scorpio.png",
-        description: "Bọ Cạp là cung hoàng đạo sâu sắc, bí ẩn và có trực giác mạnh mẽ. Họ rất trung thành, đam mê và sống hết mình cho những gì họ tin tưởng. Bọ Cạp không dễ dàng tin ai, nhưng một khi đã tin thì sẽ bảo vệ đến cùng. Họ là người giàu nội lực, không sợ khó khăn. Tuy nhiên, tính cách có phần chiếm hữu và bí ẩn khiến họ khó mở lòng, đôi khi bị hiểu lầm là lạnh lùng."
+        description: "Hi Qa nha , nay sinh nhật Qa đúng ko nè ? Chúc Qa bước sang tuổi mới có thật nhiều niềm vui , hạnh phúc , chúc cho con đường học tập của Qa luôn suôn sẻ , có nhiều sức khỏe , tất cả những điều tốt lành nhất luôn đến với Qa . Hi vọng cuộc sống của Qa sẽ tràn đầy nắng ấm , mong Qa sẽ luôn nở nụ cười trên môi và bước qua những điều tiêu cực ở phía trước , mong những chuyện tồi tệ chẳng thể làm hao mòn , quật ngã Qa nha . Với tớ thì Qa xinh rồi nè , nên là hãy luôn đỏ môi chú đừng đỏ mắt nhé !"
     }
 ];
 
