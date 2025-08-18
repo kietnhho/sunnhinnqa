@@ -41,7 +41,7 @@ const constellation = [
     {
         name: "Scorpio",
         image: "Scorpio.png",
-        description: "Hi Qa nha , nay sinh nhật Qa đúng ko nè ? Chúc Qa bước sang tuổi mới có thật nhiều niềm vui , hạnh phúc , chúc cho con đường học tập của Qa luôn suôn sẻ , có nhiều sức khỏe , tất cả những điều tốt lành nhất luôn đến với Qa . Hi vọng cuộc sống của Qa sẽ tràn đầy nắng ấm , mong Qa sẽ luôn nở nụ cười trên môi và bước qua những điều tiêu cực ở phía trước , mong những chuyện tồi tệ chẳng thể làm hao mòn , quật ngã Qa nha . Với tớ thì Qa xinh rồi nè , mong là mắt Qa sẽ bớt đỏ vào ban đêm và bớt sưng khi trời sáng , nên là hãy luôn đỏ môi chứ đừng đỏ mắt nhé!"
+        description: "Hi Qa nè , nay tớ nhớ là  sinh nhật Qa đúng không nè ? Chúc Qa bước sang tuổi mới có thật nhiều niềm vui , hạnh phúc , chúc cho con đường học tập của Qa luôn suôn sẻ , có nhiều sức khỏe , tất cả những điều tốt lành nhất luôn đến với Qa . Hi vọng cuộc sống của Qa sẽ tràn đầy nắng ấm , mong Qa sẽ luôn nở nụ cười trên môi và bước qua những điều tiêu cực ở phía trước , mong những chuyện tồi tệ chẳng thể làm hao mòn , quật ngã Qa nha . Với tớ thì Qa xinh rồi nè , mong là mắt Qa sẽ bớt đỏ vào ban đêm và bớt sưng khi trời sáng , nên là hãy luôn đỏ môi chứ đừng đỏ mắt nhé!"
     }
 ];
 
